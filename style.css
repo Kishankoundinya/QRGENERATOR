@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    
+    
+}
+button:hover {
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    font-size: 18px;
+  }
+
+
+.box{
+    left: 35%;
+    position: relative;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    height: 40%;
+    width: 40%;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    top: 160px;
+    width: 30%;
+    height: 650px;
+}
+.text{
+    padding-left: 10px;
+    
+}
+button{
+    position: relative;
+    
+}
+#heading{
+    padding: 75px;
+    font-size: 50px;
+}
+.input{
+    padding: 10px;
+}
+#image{
+    border: 2px double black;
+    border-radius: 20px;
+}
